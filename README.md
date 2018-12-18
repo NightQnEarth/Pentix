@@ -23,4 +23,4 @@
 ## Автор
 Чернущенко Денис, Ноябрь 2017
 ## Контакты
-E-mail   : Denis1.618@yandex.ru
+E-mail: Denis1.618@yandex.ru
